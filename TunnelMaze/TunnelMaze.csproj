@@ -65,6 +65,30 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Images\angel.jpg" />
+    <Content Include="Assets\Images\angel1.jpeg" />
+    <Content Include="Assets\Images\bigDoor.jpg" />
+    <Content Include="Assets\Images\bluCaterpillar.jpg" />
+    <Content Include="Assets\Images\Capture.PNG" />
+    <Content Include="Assets\Images\doors.jpg" />
+    <Content Include="Assets\Images\garden.jpg" />
+    <Content Include="Assets\Images\goldenkey.jpg" />
+    <Content Include="Assets\Images\hatMan.jpg" />
+    <Content Include="Assets\Images\key.jpg" />
+    <Content Include="Assets\Images\keys.jpg" />
+    <Content Include="Assets\Images\rabbit.PNG" />
+    <Content Include="Assets\Images\redQueen.jpg" />
+    <Content Include="Assets\Images\runningRabbit.jpg" />
+    <Content Include="Assets\Images\sil.jpg" />
+    <Content Include="Assets\Images\silverKey.jpg" />
+    <Content Include="Assets\Images\silverKey.PNG" />
+    <Content Include="Assets\Images\silverKey1.jpg" />
+    <Content Include="Assets\Images\slide02.jpg" />
+    <Content Include="Assets\Images\small door.jpg" />
+    <Content Include="Assets\Images\smallDoor.jpg" />
+    <Content Include="Assets\Images\twoPaths.PNG" />
+    <Content Include="Assets\Images\twoStairs.jpg" />
+    <Content Include="Assets\Images\whiteCat.jpg" />
     <Content Include="CSS\main.css" />
     <Content Include="CSS\reset.css" />
     <Content Include="Index.html" />
@@ -75,7 +99,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Assets\Images\" />
     <Folder Include="Assets\Sounds\" />
   </ItemGroup>
   <PropertyGroup>
