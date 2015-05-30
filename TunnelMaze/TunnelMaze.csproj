@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Images\garden1.jpg" />
     <Content Include="Documentation\External Game Document .docx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
