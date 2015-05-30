@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Documentation\External Game Document .docx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -83,10 +84,8 @@
     <Content Include="Assets\Images\runningRabbit.jpg" />
     <Content Include="Assets\Images\sil.jpg" />
     <Content Include="Assets\Images\silverKey.jpg" />
-    <Content Include="Assets\Images\silverKey.PNG" />
     <Content Include="Assets\Images\silverKey1.jpg" />
     <Content Include="Assets\Images\slide02.jpg" />
-    <Content Include="Assets\Images\small door.jpg" />
     <Content Include="Assets\Images\smallDoor.jpg" />
     <Content Include="Assets\Images\tied.jpg" />
     <Content Include="Assets\Images\twoPaths.PNG" />
